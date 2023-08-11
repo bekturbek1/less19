@@ -1,0 +1,16 @@
+.calculator {
+    width: 200px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+.calculator input {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.calculator button {
+    width: 50%;
+    padding: 10px;
+}
